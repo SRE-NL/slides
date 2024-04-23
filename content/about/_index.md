@@ -8,6 +8,6 @@ author = "SRE NL Organizers"
 
 We are a cool team of SREs in the Netherlands. We are passionate about sharing knowledge and building a strong community. We organize meetups, workshops, and conferences.
 
-List of organizers:
+Meet the organizers:
 - [Alice](https://twitter.com/alice)
 - [Bob](https://twitter.com/bob)

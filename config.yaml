@@ -13,7 +13,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 6
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -34,9 +34,9 @@ markup:
       unsafe: true
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
-social:
-#   # e.g.
-  github: https://github.com/SRE-NL
+# social:
+#   e.g.
+#   github: https://github.com/SRE-NL
 #   twitter: your-twitter-link
 #   stackoverflow: your-stackoverflow-link
 #   # facebook: your-facebook-link
@@ -57,7 +57,7 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: true
+  enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
   enableComments: false
   # To enable comments, you may need to set `googleAnalytics`

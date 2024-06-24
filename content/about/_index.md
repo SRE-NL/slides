@@ -9,5 +9,12 @@ author = "SRE NL Organizers"
 We are a cool team of SREs in the Netherlands. We are passionate about sharing knowledge and building a strong community. We organize meetups, workshops, and conferences.
 
 Meet the organizers:
-- [Alice](https://twitter.com/alice)
-- [Bob](https://twitter.com/bob)
+- Arash / [Xebia](https://xebia.com/)
+- Balázs / [Bol.com](https://www.bol.com)
+- Francesco / [ING](https://www.ing.nl/)
+- Janna / [WeTransfer](https://wetransfer.com/)
+- Matteo / [Semrush](https://www.semrush.com/)
+- Robin / [mollie](https://www.mollie.com/)
+- Samuele / [Booking](https://www.booking.com/)
+- Stephan / [ING](https://www.ing.nl/)
+- William / [ING](https://www.ing.nl/)

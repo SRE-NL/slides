@@ -6,9 +6,11 @@ aliases = ["about-us", "contact"]
 author = "SRE NL Organizers"
 +++
 
-We are a cool team of SREs in the Netherlands. We are passionate about sharing knowledge and building a strong community. We organize meetups, workshops, and conferences.
+We are a cool team of SREs in the Netherlands. We are passionate about sharing knowledge and
+building a strong community. We organize meetups, workshops, and conferences.
 
 Meet the organizers:
+
 - Arash / [Xebia](https://xebia.com/)
 - Balázs / [Bol.com](https://www.bol.com)
 - Francesco / [ING](https://www.ing.nl/)

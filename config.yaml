@@ -50,9 +50,9 @@ params:
   # Site Author
   author: SRE NL
   # Author biography
-  bio: Meetup for Site Reliability Engineers in the Netherlands
+  bio: SRE NL Organizers
   # Site Description, used in HTML meat
-  description: My Blog
+  description: Meetup for Site Reliability Engineers in the Netherlands
 
 
   ###########################################

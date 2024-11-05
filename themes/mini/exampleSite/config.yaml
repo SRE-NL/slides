@@ -1,22 +1,19 @@
-baseURL: https://example.com/
+baseURL: https://example.com
 languageCode: en-us
-title: SRE NL
-theme: mini
-
-RelativeURLs: true
-CanonifyURLs: true
+title: Hugo
+theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
 defaultContentLanguage: en
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../`
-# themesDir: ../../
+themesDir: ../../
 
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-pagination.pagerSize: 6
+paginate: 3
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -36,23 +33,24 @@ markup:
     renderer:
       unsafe: true
 
+# Social links in footer, support github,twitter,stackoverflow,facebook
+social:
+  # e.g.
+  github: your-github-link
+  twitter: your-twitter-link
+  stackoverflow: your-stackoverflow-link
+  # facebook: your-facebook-link
+
 
 # Site parameters
 params:
   # Site Author
-  author: SRE NL
+  author: Author
   # Author biography
-  bio: SRE NL Organizers
+  bio: Software Engineer
   # Site Description, used in HTML meat
-  description: Meetup for Site Reliability Engineers in the Netherlands
+  description: My Blog
 
-# Social links in footer, support github,twitter,stackoverflow,facebook
-# social:
-#   e.g.
-#   github: https://github.com/SRE-NL
-#   twitter: your-twitter-link
-#   stackoverflow: your-stackoverflow-link
-#   # facebook: your-facebook-link
 
   ###########################################
   # Optional Configuration
@@ -61,19 +59,19 @@ params:
   # To enable RSS, you could set `enableRSS: true`, default is `true`
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: false
+  enableComments: true
   # To enable comments, you may need to set `googleAnalytics`
-  enableGoogleAnalytics: false
+  enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
-  showToc: false # TODO
+  showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: false
+  showPowerBy: true
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
-  hiddenPostSummaryInHomePage: true # TODO
+  hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
-  # copyright: ''
+  copyright: ''
 
   # Extra links in navigation
   links:

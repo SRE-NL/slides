@@ -16,7 +16,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 6
+pagination.pagerSize: 6
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -36,14 +36,6 @@ markup:
     renderer:
       unsafe: true
 
-# Social links in footer, support github,twitter,stackoverflow,facebook
-# social:
-#   e.g.
-#   github: https://github.com/SRE-NL
-#   twitter: your-twitter-link
-#   stackoverflow: your-stackoverflow-link
-#   # facebook: your-facebook-link
-
 
 # Site parameters
 params:
@@ -54,13 +46,20 @@ params:
   # Site Description, used in HTML meat
   description: Meetup for Site Reliability Engineers in the Netherlands
 
+# Social links in footer, support github,twitter,stackoverflow,facebook
+# social:
+#   e.g.
+#   github: https://github.com/SRE-NL
+#   twitter: your-twitter-link
+#   stackoverflow: your-stackoverflow-link
+#   # facebook: your-facebook-link
 
   ###########################################
   # Optional Configuration
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: false
+  enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
   enableComments: false
   # To enable comments, you may need to set `googleAnalytics`

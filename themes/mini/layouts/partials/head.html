@@ -33,5 +33,8 @@
 {{ end }}
 
 {{ if .OutputFormats.Get "RSS" }}
-<a class="button" href="{{ with .OutputFormats.Get "rss" }} {{ .Permalink }}{{ end }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}{{ i18n "subscribe" }}{{ end }}</a>
+  {{ with .OutputFormats.Get "RSS" }}
+    <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  {{ end }}
 {{ end }}

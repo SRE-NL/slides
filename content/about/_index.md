@@ -11,12 +11,10 @@ building a strong community. We organize meetups, workshops, and conferences.
 
 Meet the organizers:
 
-- Arash / [Xebia](https://xebia.com/)
-- Balázs / [Bol.com](https://www.bol.com)
-- Francesco / [ING](https://www.ing.nl/)
-- Janna / [WeTransfer](https://wetransfer.com/)
-- Matteo / [Semrush](https://www.semrush.com/)
-- Robin / [mollie](https://www.mollie.com/)
-- Samuele / [Booking](https://www.booking.com/)
-- Stephan / [ING](https://www.ing.nl/)
-- William / [ING](https://www.ing.nl/)
+- Arash Haghighat / [Xebia](https://xebia.com/)
+- Balázs Nagy / [Bol.com](https://www.bol.com)
+- Janna Brummel
+- Robin van Zijll / [mollie](https://www.mollie.com/)
+- Samuele Tonon / [Booking](https://www.booking.com/)
+- Stephan Mousset / [ING](https://www.ing.nl/)
+- William Ravensbergen / [ING](https://www.ing.nl/)

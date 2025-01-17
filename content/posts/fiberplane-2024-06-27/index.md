@@ -1,5 +1,5 @@
 ---
-author: "SRE NL"
+author: "Arash Haghighat"
 title: "Incident response readiness"
 date: "2024-06-27"
 draft: false

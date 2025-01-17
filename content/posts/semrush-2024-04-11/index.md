@@ -1,5 +1,5 @@
 ---
-author: "SRE NL"
+author: "Arash Haghighat"
 title: "Next Steps in your SLO Journey"
 date: "2024-04-11"
 draft: false

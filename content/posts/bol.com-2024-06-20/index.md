@@ -1,5 +1,5 @@
 ---
-author: "SRE NL"
+author: "Arash Haghighat"
 title: "Systems Thinking in SRE"
 date: "2024-06-20"
 draft: false

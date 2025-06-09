@@ -9,7 +9,7 @@ tags: []
 
 ## Sven Möller and Raluca Nedelcu (Albert Heijn)
 
-[ICW: AI-Powered Incident Command for Faster Recovery & Reliability](./files/ICW.pdf)
+[ICW: AI-Powered Incident Command for Faster Recovery & Reliability](./files/ICW.pptx)
 
 ## Harini Gajendran and Ivan Merrill (Albert Heijn)
 

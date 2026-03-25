@@ -4,7 +4,7 @@ title: "Signal Overflow: Observability in the Age of AI"
 date: "2026-03-23"
 draft: false
 description: "​We will look at openTelemetry again but from different point of views. A good portion of SRE's work is observability and with OpenTelemetry as today standard for observability it's only natural to see this as a recurring topic in our gatherings."
-tags: [#AI,#OpenTelemetry,#booking.com,#observability]
+tags: [AI,OpenTelemetry,booking.com,observability]
 ---
 
 ## First presenter by Vitalii Likachev (Booking.com)

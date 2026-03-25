@@ -9,7 +9,7 @@ tags: [AI,OpenTelemetry,booking.com,observability]
 
 ## Vitalii Likachev (Booking.com)
 
-[Tracing for Grown-Ups: OpenTelemetry Best Practices for Large Systems](./files/Tracing%20for%20Grown-Ups-%20OpenTelemetry%20Best%20Practices%20for%20Large%20Systems.pdf)
+[Tracing for Grown-Ups: OpenTelemetry Best Practices for Large Systems](./files/tracingfor_grown_ups_opentelemetry_best_practices_for_large_systems.pdf)
 
 ## Andy Grabner (Dynatrace and CNCF Ambassador)
 

@@ -7,11 +7,11 @@ description: "​We will look at openTelemetry again but from different point of
 tags: [AI,OpenTelemetry,booking.com,observability]
 ---
 
-## First presenter by Vitalii Likachev (Booking.com)
+## Vitalii Likachev (Booking.com)
 
 [Tracing for Grown-Ups: OpenTelemetry Best Practices for Large Systems](./files/Tracing%20for%20Grown-Ups-%20OpenTelemetry%20Best%20Practices%20for%20Large%20Systems.pdf)
 
-## Second presenter by Andy Grabner (Dynatrace and CNCF Ambassador)
+## Andy Grabner (Dynatrace and CNCF Ambassador)
 
 
 [PDF:Observability in the AI-Native Age ](./files/AIOBservability_Meetup_March2026_TOSHARE.pdf)
